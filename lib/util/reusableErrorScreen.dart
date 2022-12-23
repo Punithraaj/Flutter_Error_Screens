@@ -21,7 +21,7 @@ class ReusableErrorScreen extends StatelessWidget {
         children: [
           Image.asset(
             imgPath,
-            fit: BoxFit.cover,
+            fit: BoxFit.fill,
           ),
           Positioned(
             bottom: MediaQuery.of(context).size.height * 0.13,
