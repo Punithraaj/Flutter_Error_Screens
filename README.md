@@ -6,4 +6,4 @@ We have designed 20+ error Screens for your app by using Flutter Framework.Appli
 
 ### Preview
 
-![App UI](/20+ ERROR SCREEN.mp4)
+![App UI](/preview.mp4)
