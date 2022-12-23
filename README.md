@@ -1,16 +1,9 @@
 # flutter_error_screens
 
-A new Flutter project.
+# 20+ Error State For Android and iOS - Flutter
 
-## Getting Started
+We have designed 20+ error Screens for your app by using Flutter Framework.Application runs in Android,iOS,Web,Windows because it builds with flutter. It contains almost all error pages like 404 page not found, No internet connection, File not found, also contain location access or camera access custom screen which provide you better user experience.
 
-This project is a starting point for a Flutter application.
+### Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App UI](/20+ ERROR SCREEN.mp4)
