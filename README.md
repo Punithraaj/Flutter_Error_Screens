@@ -6,4 +6,6 @@ We have designed 20+ error Screens for your app by using Flutter Framework.Appli
 
 ### Preview
 
-![App UI](/preview.gif)
+![App UI](/1.png)
+![App UI](/2.png)
+![App UI](/3.png)
